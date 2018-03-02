@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "stack-fetch:toggle"
+    "atom-workspace": "stack-fetch:fetch"
   },
   "repository": "https://github.com/atom/stack-fetch",
   "license": "MIT",
