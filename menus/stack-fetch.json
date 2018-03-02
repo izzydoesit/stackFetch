@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle stack-fetch",
+        "command": "stack-fetch:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "stack-fetch",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "stack-fetch:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

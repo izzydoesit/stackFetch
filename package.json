@@ -1,0 +1,18 @@
+{
+  "name": "stack-fetch",
+  "main": "./lib/stack-fetch",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "stack-fetch:toggle"
+  },
+  "repository": "https://github.com/atom/stack-fetch",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
