@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle stack-fetch",
-        "command": "stack-fetch:toggle"
+        "label": "Fetch code",
+        "command": "stack-fetch:fetch"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "stack-fetch",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "stack-fetch:toggle"
+              "label": "Fetch code",
+              "command": "stack-fetch:fetch"
             }
           ]
         }
