@@ -1,34 +1,36 @@
 # stackFetch
 
-stackFetch
 Shazam your code into your text editor in real time with this package for Atom. It is able to find and import code snippets from stack overflow on command and is even language-specific in its queries!
  
 
-Getting Started
+##Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-Prerequisites
+###Prerequisites
+```
 atom 1.24.0
 apm  1.18.12
-
-Installing
+```
+###Installing
 From the command terminal, clone the repository to your local directory...
-
+```
 $ git clone https://www.gihub.com/izzydoesit/stackFetch.git
 $ cd stackFetch
 $ atom .
-
-Built With
+```
+#Built With
+```
 JavaScript 
 Atom Text Editor
-Authors
-Israel Matos - Github
+```
+#Authors
+Israel Matos - [Github](https://github.com/izzydoesit)
 
-License
+#License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-Acknowledgments
-The Github and StackOverflow communities. Thanks for all your help!
+#Acknowledgments
+The Github and StackOverflow communities. Thanks for all your endless help!
 
 
 ![alt text][walkthrough]
