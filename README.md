@@ -1,6 +1,6 @@
 # stackFetch
 
-Shazam your code into your text editor in real time with this package for Atom. Type a word and highlight, then activate stackFetch to find and import code snippets from stack overflow on command!! No need to specify language, stackFetch detects it automatically and searches only in that language.  
+*Shazam your code into your text editor in real time with this package for Atom!*  Type a word and highlight, then activate stackFetch to find and import code snippets from stack overflow on command. No need to specify language, stackFetch detects it automatically and searches only in that language.  
   
 ![alt text][walkthrough]
 
