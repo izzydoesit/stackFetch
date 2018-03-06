@@ -4,7 +4,7 @@
   
 ![alt text][walkthrough]
 
-[walkthrough]: https://cloud.githubusercontent.com/assets/6755555/17759382/836dd780-64ab-11e6-8f6a-329f66f01fd7.gif "Logo Title Text 2"
+[walkthrough]: stackFetchDemoGIF.gif "Logo Title Text 2"
   
   
 Under the hood, we are making two http requests asynchronously using apm dependency modules, **Google** and NPM **Request**, together with promises. We search Google for _Stack Overflow_-specific content related to your highlighted search term, choose the number #1 result on Google, and import code snippets from the accepted answer on that page. 
